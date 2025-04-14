@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Melina Schimpf Baldo
+## ¡Hola! 👋 Soy Melina
 
 Soy desarrolladora de software, actualmente estudiando la Tecnicatura Superior en Análisis y Desarrollo de Software en la Facultad Sedes Sapientiae. Me considero una persona proactiva y creativa que disfruta combinar conocimientos técnicos con diseño para crear soluciones funcionales y elegantes.
 
