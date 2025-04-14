@@ -3,7 +3,7 @@
 Soy una apasionada desarrolladora de software, actualmente estudiando la Tecnicatura Superior en Análisis y Desarrollo de Software en la Facultad Sedes Sapientiae. Me considero una persona proactiva y creativa que disfruta combinar conocimientos técnicos con diseño para crear soluciones funcionales y elegantes.
 
 ### 🔭 Actualmente estoy trabajando en...
-- Construir un portafolio profesional que muestre mis habilidades en programación frontend.
+- Construir un portafolio profesional que muestre mis habilidades en data analytics.
 - Proyectos como una aplicación del clima y un gestor de tareas para destacar mis capacidades de diseño y desarrollo.
 
 ### 🌱 Estoy aprendiendo...
@@ -14,7 +14,7 @@ Soy una apasionada desarrolladora de software, actualmente estudiando la Tecnica
 - Iniciativas comunitarias que fomenten el aprendizaje y el crecimiento.
 
 ### 💬 Pregúntame sobre...
-- PHP (Laravel), JavaScript, C#, HTML/CSS, Python, y gestión de bases de datos.
+- GEstión de bases de datos, PHP (Laravel), JavaScript, C#, HTML/CSS y Python.
 - Networking, ensamblaje de computadoras y reparación de sistemas.
 
 ### 📫 Cómo contactarme:
@@ -22,7 +22,7 @@ Soy una apasionada desarrolladora de software, actualmente estudiando la Tecnica
 - **LinkedIn:** [linkedin.com/in/melina-schimpf](https://linkedin.com/in/melina-schimpf) 
 
 ### ⚡ Dato curioso:
-Siempre me mantengo en constante aprendizaje, explorando nuevas tecnologías y herramientas para fortalecer mis conocimientos y seguir creciendo profesionalmente.
+Me mantengo en constante aprendizaje, explorando nuevas tecnologías y herramientas para fortalecer mis conocimientos y seguir creciendo profesionalmente.
 
 ---
 
