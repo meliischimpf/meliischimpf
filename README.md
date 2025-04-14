@@ -23,6 +23,7 @@ Soy una apasionada desarrolladora de software, actualmente estudiando la Tecnica
 
 ### ⚡ Dato curioso:
 Siempre me mantengo en constante aprendizaje, explorando nuevas tecnologías y herramientas para fortalecer mis conocimientos y seguir creciendo profesionalmente.
+
 ---
 
 Explora mis proyectos y no dudes en contactarme. ¡Conectemos y construyamos algo increíble juntos! 🚀
