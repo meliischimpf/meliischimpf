@@ -45,7 +45,7 @@ Este perfil de GitHub y mi Portafolio son la demostración práctica de mis habi
 
 Mi base es sólida: Programación Orientada a Objetos, Algoritmos y Metodologías Ágiles.
 
-* **Tecnicatura en Análisis y Desarrollo de Software** (2023 - 2025 - *En curso*)
+* **Tecnicatura en Análisis y Desarrollo de Software** (2023 feb - 2025 dec)
 * **Next-Generation Cyber Security** (Huawei)
 * **Comprehensive JavaScript Course** (Udemy)
 
